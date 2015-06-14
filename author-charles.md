@@ -21,4 +21,4 @@ I've also been increasing my focus away from working with only large enterprise 
 
 Lastly, when I am not focusing on business and technology I also enjoy traveling, writing, and learning new languages.
 
-Have questions, please ask [@charles_green](https://twitter.com/charles_green)
+Have questions? Please ask [@charles_green](https://twitter.com/charles_green)
