@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Blog of Charles Green | Getting Down To Business With SOA &amp; New Open Source Projects</title>
+    <meta name="description" content="Over the last year I’ve been rethinking my approach to application development. So much so that this has grown from a simple idea into a down right obsession...">
+
+    <link rel="stylesheet" href="/css/main.css">
+
+    <link rel="canonical" href="/getting-down-to-business-with-soa-and-new-open-source-projects">
+    <link rel="alternate" type="application/rss+xml" title="Blog of Charles Green" href="/feed.xml" />
+
+    <!--[if lt IE 9]>
+        <script src="/js/vendor/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+
+
+  <body class="">
+
+    <header class="hero-image" style="background-image: url(/img/feature-wolf.jpg);">
+    <span class="menu-trigger animated fadeInDown">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </span>
+
+    <!-- if the user has javascript disabled they can still use the menu -->
+<noscript>
+    <div class="no-js-menu">
+        <ul>
+            
+                <li><i class="fa fa-home"></i><a href="/">Home</a></li>
+            
+                <li><i class="fa fa-user"></i><a href="/author/charles">Author</a></li>
+            
+        </ul>
+    </div>
+</noscript>
+<!-- end no script -->
+
+    <div id="menu-target">
+    <ul>
+        
+            <li><i class="fa fa-home"></i><a href="/">Home</a></li>
+        
+            <li><i class="fa fa-user"></i><a href="/author/charles">Author</a></li>
+        
+    </ul>
+</div>
+
+</header>
+
+<main class="container">
+    <div class="row">
+        <div class="col-xs-12 single-content">
+            <p class="meta">
+                <a href="/author/charles">Charles green</a> in <a href='/category/devops'>Devops</a> <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> 3 minutes
+            </p>
+
+            <h1>Getting Down To Business With SOA &amp; New Open Source Projects</h1>
+
+            <p>Over the last year I’ve been rethinking my approach to application development. So much so that this has grown from a simple idea into a down right obsession. And to make the most of this new found enthusiasm I’ve started stepping up my activity here and on GitHub.  Over the short-term you can expect to see one to two new posts per week focusing on Service-Oriented Architecture (SOA) design and best practices. These will include a mix of high level discussions and low level code examples.</p>
+
+<p>I’ve already started mapping out a few new open source projects for common services to help reduce the effort needed to build applications the right way. The projects will include an oAuth2 provider, oData provider, and an email service to be used with RabbitMQ. Most of these services will be written mostly in Ruby or a bit of node.js however it’s important to keep in mind that taking an SOA approach lets us focus on producing and consuming messages using the best tool for the job rather than worry about the specific language we are using.</p>
+
+<p>Without further delay I’d like to kick this series off with a brief overview of what to expect and to give you a look at what’s important to me when it comes to development.</p>
+
+<h2 id="development-environment">Development Environment</h2>
+<p>We all know that setting up a development environment is a very personal endeavor. So much so that you will not find any two environments alike even if they are for the same person. So I’m not going to try and connivence you how to setup yours. Instead I’m only going to share what works well for me. In the world of software development I initially started with VB back in the day and moved to C# so rightfully so Visual Studio was at the center of my world and to be completely honest I still believe it is by far the most feature rich and bug free development environment ever made. Funny enough however I spend most of my time using vi and TestMate. As for Java development I use Eclipse but I try my best to avoid it all together. If you share the same likes as I do then great. If not, there are 1000’s of IDE and editors to choose from. If you got one you love I’d like to hear about it. If not keep trying them out and let me know which one rocks your world.</p>
+
+<h2 id="packages-amp-dependencies">Packages &amp; Dependencies</h2>
+<p>Working mostly on a Mac I tend use Homebrew to install things like PostgreSQL, RabbitMQ, and any other out of the box application that’s needed. I do this to make it easily reproducible with basic defaults so it makes it easier to work with other people on projects. From there I use package and dependency managers like Ruby Version Manager (rvm), Node Package Manager (npm), and NuGet in .NET. to install and manage the different libraries and languages. They make it easier to change environments to match the specific needs of the project as well as to upgrade to new versions as they are released.</p>
+
+<h2 id="version-control">Version Control</h2>
+<p>Git with GitHub or GitLab. I prefer git CLI on Mac or GitStash on Windows. It gives me all the integration I need.</p>
+
+<h2 id="documentation">Documentation</h2>
+<p>A quick word on 3rd party libraries, while some developers look for the latest and greatest technologies on the market I stick with solid technologies that that consistently work well and have solid documentation.  Personally, I’d rather skip and miss the bus on a new technology if it has poor documentation. To me it usually a good indicator of what it’s going to be like working with the product over the long-term.</p>
+
+<h3 id="documentation-generators">Documentation Generators</h3>
+<p>To take this a step further and bring it a little closer to home. I once let people on my team skip or minimize documentation in the sake of speed and deadlines however I now believe that it was a foolish mistake on my part. Not only that but I now strongly believe that using tools like RDoc and YARD to get the documentation closer to the code that it references and auto generating it on the fly is an absolute must. On the .NET side I tend to stick with XML style comments and auto generating documentation using Visual Studio. I’ve found this to be the easiest way to keep documentation up to date.</p>
+
+<h2 id="testbehavior-driven-development-tddbdd">Test/Behavior Driven Development (TDD/BDD)</h2>
+<p>Whether you are writing a small app or a large application it goes without saying that if you are not following TDD or BDD then there is no way to have a high level of confidence your code is actually done what it is supposed to do.  It seems like every time I try to skip writing tests and jump right into coding to “save” time it ends up taking me more time then if I would have actually done it right the first time. And while picking a testing framework is like picking an IDE I usually find myself going back to tools that I am comfortable with.  For Ruby development that tends to be RSpec for functionality and Capybara for automated UI testing. Lastly, while I like the concept of writing user stories with frameworks like Cucumber I find it is usually overkill.  For .NET I tend to stick with MSTest and NUnit.</p>
+
+<h3 id="code-coverage">Code Coverage</h3>
+<p>This is another one of those touchy areas and I’ve seen developers and teams on both ends of the spectrum. Either they care and monitor the percentage of coverage they have or they couldn’t care less.  Personally, I think having a total test count is useless however having a figure that represents how much of the code is worked out and tested during continuous integration testing does add a lot of value but I don’t think there is a once size fits all. And while a higher number does not guarantee there will not be any errors I do believe that having a target percentage does help when analyzing how things are going over time. For example, if 50% coverage gets the team there then great, if not increase the number until it does. The goal is not to always do more but rather to do what is needed to consistently reach the teams goals and produce good quality applications.</p>
+
+<p>Want to chat? Drop me a line at <a href="http://www.twitter.com/charles_green">@charles_green</a> and say hello.</p>
+
+
+        </div><!-- main-content/col -->
+    </div> <!--/row -->
+
+</main> <!-- /container -->
+
+<footer class="single">
+    <div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-2">
+            <img src="/img/charles.jpg" class="user-icon " alt="user-image">
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <div class="category-list">
+                <p>Published <span>Feb 5, 2014</span></p>
+                <p><a href="/author/charles">Charles green</a> in <a href='/category/devops'>Devops</a></p>
+
+                <div class="other-catergories">
+                    <h3>Also found in</h3>
+
+                    <ul>
+                        
+                        <li>
+                            <a href='/category/devops'>Devops</a>
+                            
+                        </li>
+                        
+                    </ul>
+                </div>
+
+            </div>
+        </div><!-- end col -->
+        <div class="col-xs-12 col-sm-4">
+            <div class="social">
+                <p>Share this article</a>
+                <div class="social-links">
+                    <a class="social-icon" href="#" data-platform="twitter" data-message="" data-url="/getting-down-to-business-with-soa-and-new-open-source-projects"><i class="fa fa-twitter"></i></a>
+
+                    <a class="social-icon" href="#" data-platform="facebook" data-message="" data-url="/getting-down-to-business-with-soa-and-new-open-source-projects"><i class="fa fa-facebook-official"></i></a>
+                    <a class="social-icon" data-platform="mail"  href="mailto:cg@charlesgreen.org?body=/getting-down-to-business-with-soa-and-new-open-source-projects"><i class="fa fa-envelope"></i></a>
+                </div>
+            </div>
+        </div>
+    </div><!-- end row -->
+</div>
+
+    
+</footer>
+
+
+
+
+    <script src='/js/vendor/modernizr.custom.32229-2.8-respondjs-1-4-2.js'></script>
+    <script src="/js/vendor/jquery-1.11.2.min.js"></script>
+    <script src='/js/vendor/jquery.jpanelmenu.min.js'></script>
+    <script type='application/javascript' src='/js/vendor/fastclick.min.js'></script>
+    
+    <script src=' /js/main.js'></script>
+  </body>
+
+</html>

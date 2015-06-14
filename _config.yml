@@ -1,23 +1,17 @@
 # Site settings
 title: Blog of Charles Green
 email: cg@charlesgreen.org
-description: Good fun from Tokyo
+description: "Business & Growth Hacking"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
-  Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
-  Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
-  About : ['About', '/about', 'fa-anchor']
-  Contact : ['Contact', '/contact', 'fa-plane']
-  Author : ['Author', '/author/michelle', 'fa-user']
-single_footer: '<p>The writer community loves your content. Writer &copy; 2015 <a href="/">latest posts</a></p>'
+  Author : ['Author', '/author/charles', 'fa-user']
+single_footer: '<p>Blog of Charles Green &copy; 2015 <a href="/">latest posts</a></p>'
 footer_links:
-    About: ['About', '/about']
-    Writer: ['Writer 2015', '/about']
-
+    About: ['Author', '/author/charles']
 
 # Build settings
 markdown: kramdown
