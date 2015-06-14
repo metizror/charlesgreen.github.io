@@ -13,8 +13,12 @@ fav_posts:
 
 # Charles Green
 
-I'm an experienced technical entrepreneur with an MBA and Bachelor's degree in Computer Information Systems from Baker College where he was also an adjunct instructor and an Advisory Board member in computer science.
+I'm an experienced entrepreneur with an MBA and BSc CIS from Baker College where I was also an adjunct instructor and an Advisory Board Member in computer science.
 
-Over the last 15 years I've started multiple IT related firms and worked for financial and technology firms in Asia Pacific. For the last 8 years he has worked in Tokyo, Japan as a Lead DevOps Engineer and Team Lead for leading Japanese investment banks and founded new startups where he has build large distributed systems, real-time data transaction systems, and automated reporting systems in public and private cloud environments.
+Over the last 15 years I've started multiple IT related firms and worked for financial and consulting firms in Asia Pacific. For the last 8 years I've been working in Tokyo as an Architect and Senior DevOps Engineer building large distributed systems, real-time data transaction systems, and automated reporting systems in public and private cloud environments.
 
-In the last couple of years I've increased my focus on working with the startup community in Tokyo.
+I've also been increasing my focus away from working with only large enterprise clients and more towards working with startups with the overall goal of disrupting the flow of business and how things get done in Asia Pacific.
+
+Lastly, when I am not focusing on business and technology I also enjoy traveling, writing, and learning new languages.
+
+Have questions, please ask [@charles_green](https://twitter.com/charles_green)
