@@ -2,12 +2,12 @@
 title: Blog of Charles Green
 email: cg@charlesgreen.org
 description: "Business & Growth Hacking"
-baseurl: "http://www.charlesgreen.org" # the subpath of your site, e.g. /blog
+baseurl: "http://www.charlesgreen.org/" # the subpath of your site, e.g. /blog
 url: "http://www.charlesgreen.org" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
-  Home : ['Home', '/', 'fa-home']
+  Home : ['Home', '', 'fa-home']
   Author : ['Author', '/author/charles', 'fa-user']
 single_footer: '<p>Blog of Charles Green &copy; 2015 <a href="/">latest posts</a></p>'
 footer_links:
