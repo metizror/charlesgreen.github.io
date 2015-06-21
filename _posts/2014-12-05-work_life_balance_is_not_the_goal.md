@@ -2,7 +2,7 @@
 layout: post-sidebar
 date: 2014-12-05
 title: 'Work Life Balance is NOT the Goal'
-description: 'Work life balance is not the goal. Doing what you are good at and enjoy is.'
+description: 'Work life balance is not the goal. Doing what you are good at and enjoy it is.'
 categories: mindset
 author_name: Charles Green
 author_url: /author/charles
