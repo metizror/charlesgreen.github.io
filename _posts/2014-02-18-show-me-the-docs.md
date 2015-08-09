@@ -16,7 +16,7 @@ square_related: recommend-laptop
 
 Today's a short quick post.  
 
-If you swap out "Money" for "Docs" I think this clip from Jerry Maguire (Tom Cruise) sums my feeling up quite well.
+If you swap out "Money" for "Docs" I think this clip from Jerry Maguire (Tom Cruise) sums my feelings up quite well.
 
 If you've been around software development for any length of time and have taken over projects I'm sure you've run into the undocumented project more than you'd care to count.  With tools like RDoc, YARD, and even good old XML style comments there's simply no excuse for projects to be undocumented or to have old documentation.  
 

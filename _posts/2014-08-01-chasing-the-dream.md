@@ -30,7 +30,7 @@ If you haven’t done it in a while I highly suggest you take time to reflect an
 
 
 ## What's next?
-- [SimplyCubed.com](http://www.simplycubed.com) - Business Consulting & Growth Hacking
+- [GrowthApprentice.com](http://www.growthapprentice.com) - Growth Hacking
 
 
 Want to chat? Drop me a line at [@charles_green](http://www.twitter.com/charles_green) and say hello.

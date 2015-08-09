@@ -14,16 +14,12 @@ show_related_posts: true
 square_related: recommend-san-fran
 ---
 
-#A New Approach  
-After spending a bit of time reviewing my previous blog I decided to make a move from WordPress to GitHub pages.  
+After spending a bit of time reviewing my previous blog I decided to make a move from WordPress to GitHub pages. 
 
 The move actually had nothing to do with WordPress and instead everything to do with wanting to focus on building out my public profile on GitHub. Up until now more than 90% of the code that I've developed for clients has been locked up in private repositories and guarded with strict NDA’s.
 
 As a result, this blog marks my first steps towards building up a base of open content.
 
-Until next time DEV with passion! :-)
-
-Charles
-
+Until next time DEV with passion!
 
 Want to chat? Drop me a line at [@charles_green](http://www.twitter.com/charles_green) and say hello.
