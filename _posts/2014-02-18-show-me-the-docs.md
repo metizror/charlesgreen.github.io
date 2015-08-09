@@ -25,7 +25,7 @@ It might take a culture shift but at least it's better then being cursed at.
 Enjoy the clip! I sure did.
 
 
-[![Show Me The Money](http://www.charlesgreen.org/assets/images/money.png)](http://www.youtube.com/watch?v=TuQC5hhhqkY)
+[![Show Me The Money]({{ site.url }}/img/money.png)](http://www.youtube.com/watch?v=TuQC5hhhqkY)
 
 
 Want to chat? Drop me a line at [@charles_green](http://www.twitter.com/charles_green) and say hello.

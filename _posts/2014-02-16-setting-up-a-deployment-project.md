@@ -38,7 +38,7 @@ In my opinion, one of the greatest challenges being faced by organizations is th
 6. The deployment script will then run a set of health checks on the services.
 7. If all health checks pass the updated services will be added to the load balancer and the outdated servers will be retired.  
 
-![Basic Deployment Overview]({{ site.url }}/assets/images/SCORE_Deployment.png)  
+![Basic Deployment Overview]({{ site.url }}/img/SCORE_Deployment.png)  
 
 
 ### Helpful Links:  

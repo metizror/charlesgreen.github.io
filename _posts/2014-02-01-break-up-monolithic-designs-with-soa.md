@@ -24,7 +24,7 @@ The cost of upfront developing is a bit more however it is easily offset by the 
 
 Here is a minimalistic 30,000 foot example of what a high level design would look like along with some of my preferred technologies.
 
-![Simple SOA Design with Preferred Technology Stack]({{ site.url }}/assets/images/soa_design.png)
+![Simple SOA Design with Preferred Technology Stack]({{ site.url }}/img/soa_design.png)
 
 
 Want to chat? Drop me a line at [@charles_green](http://www.twitter.com/charles_green) and say hello.
