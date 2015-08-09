@@ -15,8 +15,6 @@ square_related: recommend-spain
 ---
 
 
-### A Year Focused on Growth & Impact
-
 Over the last few years I've been focused primarily on increasing my technical skills such as AWS and Rackspace infrastructure automation and web service and tool development with Java and JavaScript. All in all, I believe this has helped me position myself well so that I can now take the next step and focus on business and impact growth for clients.
 
 For the next year I will adjust my focus from technology and implementation to execution and growth. To judge my progress I will be using a standard set of growth metrics. What makes this unique is that I will judge the overall impact on how well I am able to contribute to [Kiva.org](http://www.kiva.org/lender/simplycubed) and [Pencils of Promise](https://pencilsofpromise.org/). Both of which are not-for-profit organizations focused on improving the world.  
