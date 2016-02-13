@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2cf9a16-45ce-4c63-bf5d-9c049f4ce60b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2015-a-year-focused-on-growth-and-impact/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/break-up-monolithic-designs-with-soa/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/building-stuff-is-awesome/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/chasing-the-dream/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/getting-down-to-business-with-soa-and-new-open-source-projects/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/goodbye-wordpress-hello-github-pages-w-jekyll/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/SCORE_Deployment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/soa_design.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/mission-statement/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/opinionated-software-rocks/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/safecast-hackathon/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/setting-up-a-deployment-project/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/show-me-the-docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/the-entrepreneurs-dilemma/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/unstoppable-desire-to-do-something-great/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/vmware-is-awesome/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/work_life_balance_is_not_the_goal/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/charles.jpg" afterPath="$PROJECT_DIR$/_site/img/charles.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/charles.jpg" afterPath="$PROJECT_DIR$/img/charles.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/author/charles/index.html" afterPath="$PROJECT_DIR$/_site/author/charles/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/blog/index.html" afterPath="$PROJECT_DIR$/_site/category/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/business/index.html" afterPath="$PROJECT_DIR$/_site/category/business/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/devops/index.html" afterPath="$PROJECT_DIR$/_site/category/devops/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/growth/index.html" afterPath="$PROJECT_DIR$/_site/category/growth/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/leadership/index.html" afterPath="$PROJECT_DIR$/_site/category/leadership/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/mindset/index.html" afterPath="$PROJECT_DIR$/_site/category/mindset/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/travel/index.html" afterPath="$PROJECT_DIR$/_site/category/travel/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/volunteer/index.html" afterPath="$PROJECT_DIR$/_site/category/volunteer/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/contact/index.html" afterPath="$PROJECT_DIR$/_site/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-11-05-mission-statement.md" afterPath="$PROJECT_DIR$/_posts/2013-11-05-mission-statement.md" />
     </list>
     <ignored path="charlesgreen_web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,18 +23,7 @@
     <favorites_list name="charlesgreen_web" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49610895">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +38,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/_posts/2013-11-05-mission-statement.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
@@ -252,12 +212,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3488858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -317,10 +277,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-11-05-mission-statement.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30927834">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49610895">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.46692607">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="18" />
           <folding />
         </state>
       </provider>

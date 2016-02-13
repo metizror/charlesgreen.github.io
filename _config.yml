@@ -9,7 +9,7 @@ permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
   Author : ['Author', '/author/charles', 'fa-user']
-single_footer: '<p>Blog of Charles Green &copy; 2015 <a href="/">latest posts</a></p>'
+single_footer: '<p>Blog of Charles Green &copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['Author', '/author/charles']
 
