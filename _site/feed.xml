@@ -3,11 +3,30 @@
   <channel>
     <title>Blog of Charles Green</title>
     <description>Business &amp; Growth Hacking</description>
-    <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//</link>
-    <atom:link href="http://www.charlesgreen.orghttp://www.charlesgreen.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Aug 2015 16:08:00 +0900</pubDate>
-    <lastBuildDate>Sun, 09 Aug 2015 16:08:00 +0900</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://www.charlesgreen.org/</link>
+    <atom:link href="http://www.charlesgreen.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 13 Feb 2016 18:11:31 +0900</pubDate>
+    <lastBuildDate>Sat, 13 Feb 2016 18:11:31 +0900</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Up Next: Growth Engineering\Hacking</title>
+        <description>&lt;p&gt;This is a quick post to let everyone know that I am launching a new blog called &lt;a href=&quot;http://growthapprentice.com/&quot;&gt;Growth Apprentice&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have no questions that Growth Engineering (aka Growth Hacking/ Marketing, etc.) is here to stay and I’m increasing it from an interest to the overall direction of my career. Heck it’s even what I spend most of my free time reading and exploring these days.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://growthapprentice.com/&quot;&gt;Growth Apprentice&lt;/a&gt; is a new experiment to help me dig deeper and learn more about the exciting world of growth and marketing through the use of data and analytics. Come and join me, let me know what you think, and let’s have a bit of fun.&lt;/p&gt;
+
+&lt;p&gt;Have questions or comments? Contact me on Twitter &lt;a href=&quot;https://twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Aug 2015 00:00:00 +0900</pubDate>
+        <link>http://www.charlesgreen.org/growth-engineering-enter-stage-left</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/growth-engineering-enter-stage-left</guid>
+        
+        
+        <category>growth</category>
+        
+      </item>
     
       <item>
         <title>A Year Focused on Growth &amp; Impact</title>
@@ -22,8 +41,8 @@
 &lt;p&gt;Contact me on Twitter &lt;a href=&quot;https://twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Feb 2015 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//2015-a-year-focused-on-growth-and-impact</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//2015-a-year-focused-on-growth-and-impact</guid>
+        <link>http://www.charlesgreen.org/2015-a-year-focused-on-growth-and-impact</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/2015-a-year-focused-on-growth-and-impact</guid>
         
         
         <category>growth</category>
@@ -70,8 +89,8 @@
 &lt;p&gt;Drop me a line at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt; and let me know.&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Dec 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//work_life_balance_is_not_the_goal</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//work_life_balance_is_not_the_goal</guid>
+        <link>http://www.charlesgreen.org/work_life_balance_is_not_the_goal</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/work_life_balance_is_not_the_goal</guid>
         
         
         <category>mindset</category>
@@ -96,8 +115,8 @@
 &lt;p&gt;What’s next for you? Please drop me a message at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt; and let me know.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Sep 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//unstoppable-desire-to-do-something-great</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//unstoppable-desire-to-do-something-great</guid>
+        <link>http://www.charlesgreen.org/unstoppable-desire-to-do-something-great</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/unstoppable-desire-to-do-something-great</guid>
         
         
         <category>mindset</category>
@@ -108,7 +127,7 @@
         <title>Show Me The Docs</title>
         <description>&lt;p&gt;Today’s a short quick post.&lt;/p&gt;
 
-&lt;p&gt;If you swap out “Money” for “Docs” I think this clip from Jerry Maguire (Tom Cruise) sums my feeling up quite well.&lt;/p&gt;
+&lt;p&gt;If you swap out “Money” for “Docs” I think this clip from Jerry Maguire (Tom Cruise) sums my feelings up quite well.&lt;/p&gt;
 
 &lt;p&gt;If you’ve been around software development for any length of time and have taken over projects I’m sure you’ve run into the undocumented project more than you’d care to count.  With tools like RDoc, YARD, and even good old XML style comments there’s simply no excuse for projects to be undocumented or to have old documentation.&lt;/p&gt;
 
@@ -121,8 +140,8 @@
 &lt;p&gt;Want to chat? Drop me a line at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt; and say hello.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Sep 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//show-me-the-docs</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//show-me-the-docs</guid>
+        <link>http://www.charlesgreen.org/show-me-the-docs</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/show-me-the-docs</guid>
         
         
         <category>mindset</category>
@@ -141,8 +160,8 @@
 &lt;p&gt;Want to chat? Drop me a line at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt; and say hello.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Aug 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//the-entrepreneurs-dilemma</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//the-entrepreneurs-dilemma</guid>
+        <link>http://www.charlesgreen.org/the-entrepreneurs-dilemma</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/the-entrepreneurs-dilemma</guid>
         
         
         <category>business</category>
@@ -165,14 +184,14 @@
 
 &lt;h2 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.simplycubed.com&quot;&gt;SimplyCubed.com&lt;/a&gt; - Business Consulting &amp;amp; Growth Hacking&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.growthapprentice.com&quot;&gt;GrowthApprentice.com&lt;/a&gt; - Growth Hacking&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Want to chat? Drop me a line at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt; and say hello.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Aug 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//chasing-the-dream</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//chasing-the-dream</guid>
+        <link>http://www.charlesgreen.org/chasing-the-dream</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/chasing-the-dream</guid>
         
         
         <category>mindset</category>
@@ -194,8 +213,8 @@
 &lt;p&gt;Want to chat? Drop me a line at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt; and say hello.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 May 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//building-stuff-is-awesome</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//building-stuff-is-awesome</guid>
+        <link>http://www.charlesgreen.org/building-stuff-is-awesome</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/building-stuff-is-awesome</guid>
         
         
         <category>mindset</category>
@@ -213,36 +232,11 @@
 &lt;p&gt;Are you working on an opinionated software project? If so, I’d like to hear from you at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Mar 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//opinionated-software-rocks</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//opinionated-software-rocks</guid>
+        <link>http://www.charlesgreen.org/opinionated-software-rocks</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/opinionated-software-rocks</guid>
         
         
         <category>mindset</category>
-        
-      </item>
-    
-      <item>
-        <title>VMware Fusion is Awesome</title>
-        <description>&lt;p&gt;A few months ago I started a new job as a Software Developer and DevOps Engineer. One of the awesome parts of my job is that I get to play with a lot of new toys.  The first week on the job was like Christmas. I got the best MacBook Pro you can buy, an open network, and an AWS account, along with Apple and Microsoft developer subscriptions. Not to mention 2 x 27 inch monitors.  It truly was the wonderful commercialized holiday I’ve grown to love.&lt;/p&gt;
-
-&lt;p&gt;For work I develop everything from Ruby on OS X to C# and PowerShell on Windows and everything in between. Developing on a Mac with VM’s gives me the power I need with the familiarity of the command line that I’ve grown to love as I have a similar setup at home. In short, if setup properly it works well. If not, it’s a nightmare.&lt;/p&gt;
-
-&lt;p&gt;Starting out with a new system I decided to try out a few new virtualization clients. Virtual Box was first on the list and as a free product I won’t complain too much I found it buggy and still quite far from prime time as a desktop client.  I think the overall experience would have been much better if I was running older OS’s on standard hardware. I then moved to Parallels. It’s a lot more polished but just as buggy. When trying to run Windows 2012 Server on OS X Mavericks it was nothing less than frustrating. For example, I initially tried importing the Virtual Box image via the wizard but that wasn’t possible without going to the command line. I again ran into the same problems as I had with Virtual Box.&lt;/p&gt;
-
-&lt;p&gt;After a few weeks of hitting my head against my desk I tossed it out as well. It was time to go back to VMware Fusion. I’ve used VMware Fusion for the last 3 major releases and in comparison to the others it’s awesome. So much so that I’m willing to pull cash out of my own pocket just so that I’m able to use it at work as well as at home.&lt;/p&gt;
-
-&lt;p&gt;As a quick recap this experience reminded me that when you have a good thing going it’s best to keep doing what you’ve been doing instead of looking for better options.&lt;/p&gt;
-
-&lt;p&gt;Until next time, happy coding!&lt;/p&gt;
-
-&lt;p&gt;Want to chat? Drop me a line at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt; and say hello.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Mar 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//vmware-is-awesome</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//vmware-is-awesome</guid>
-        
-        
-        <category>devops</category>
         
       </item>
     
@@ -267,8 +261,8 @@ Anyhow, a few of us were able to form a new team today and we will be focusing o
 &lt;p&gt;Want to chat? Drop me a line at &lt;a href=&quot;http://www.twitter.com/charles_green&quot;&gt;@charles_green&lt;/a&gt; and say hello.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Mar 2014 00:00:00 +0900</pubDate>
-        <link>http://www.charlesgreen.orghttp://www.charlesgreen.org//safecast-hackathon</link>
-        <guid isPermaLink="true">http://www.charlesgreen.orghttp://www.charlesgreen.org//safecast-hackathon</guid>
+        <link>http://www.charlesgreen.org/safecast-hackathon</link>
+        <guid isPermaLink="true">http://www.charlesgreen.org/safecast-hackathon</guid>
         
         
         <category>devops</category>
