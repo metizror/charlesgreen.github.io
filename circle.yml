@@ -12,9 +12,9 @@ dependencies:
   pre:
     - gem install bundler
     - gem install jekyll
-    - npm install lodash
-    - npm install jshint
-    - npm install chimp
+    - npm install lodash -g
+    - npm install jshint -g
+    - npm install chimp -g
 
   override:
     - gem install bundler
