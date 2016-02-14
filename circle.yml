@@ -12,9 +12,14 @@ dependencies:
   pre:
     - gem install bundler
     - gem install jekyll
-    - npm install chimp
+    - npm install lodash
     - npm install jshint
+    - npm install chimp
 
-dependencies:
   override:
     - gem install bundler
+
+test:
+  override:
+    - jekyll build
+    - chimp
