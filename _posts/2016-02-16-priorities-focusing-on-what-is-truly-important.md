@@ -24,6 +24,6 @@ Sure careers are important, titles are great, and challenging work can be great 
 
 The change I am taking about is simple. It is taking back control of your present life and future direction.  Its being able to spend time improving ones health and making time to enjoy life. It is also about breaking away from the idea of trading time and life instead of value for money. 
 
-As a professor of mine used to say, "you got to reach out and grab it by the horns". In this case it applies to life, growth, happyness, and direction in life. Today is the marking of a new era. 
+As a professor of mine used to say, "you got to reach out and grab it by the horns". In this case it applies to life, growth, happiness, and direction in life. Today is the marking of a new era. 
 
 Have questions or comments? Contact me on Twitter [@charles_green](https://twitter.com/charles_green)
