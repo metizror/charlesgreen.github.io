@@ -26,6 +26,6 @@ Instead of the problem, I am the type of person that puts all my person behind i
 
 It's taking back control of my present life, living my values, mapping out my future direction.  It's being able taking the time to improve my health and enjoy life again. It is also about breaking away from the idea of trading time and life instead of value for money. 
 
-One of my professors used to say, "you got to reach out and grab it by the horns" and while he was talking about Oracle databases I think the same thing applies to life, love, growth, and happiness. Most of all it applies to life and one's ability to pick their future direction. Today is the marking of a new era. 
+One of my professors used to say, "you got to reach out and grab it by the horns" and while he was talking about Oracle databases I think the same applies to life, love, growth, and happiness. Most of all it applies to life and one's ability to pick their future direction. Today is the marking of a new era. 
 
 Have questions or comments? Contact me on Twitter [@charles_green](https://twitter.com/charles_green)
