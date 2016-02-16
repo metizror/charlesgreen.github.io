@@ -1,8 +1,8 @@
 ---
 layout: post-sidebar
-date: 2016-02-14
-title: 'Priorities: Focusing on What's Truly Important'
-description: 'Priorities: Focusing on What's Truly Important'
+date: 2016-02-16
+title: "Priorities: Focusing on What's Truly Important"
+description: "Priorities: Focusing on What's Truly Important"
 categories: mindset
 author_name: Charles Green
 author_url: /author/charles
