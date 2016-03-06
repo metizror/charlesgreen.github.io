@@ -5,4 +5,4 @@ _site/
 .DS_Store
 
 # Exclude Webstorm config from repo
-.idea
+.idea/*
