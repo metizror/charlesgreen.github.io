@@ -1,6 +1,6 @@
 ---
 layout: post-sidebar
-date: 2016-05-20
+date: 2016-05-19
 title: '100 Day Code Challenge'
 description: 'My 100 day code challenge, posting code to GitHub ever day for 100 days.'
 categories: devops
