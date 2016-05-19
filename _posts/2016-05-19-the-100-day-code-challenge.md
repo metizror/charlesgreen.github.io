@@ -15,7 +15,7 @@ square_related: recommend-plantpot
 ---
 
 
-Today starts my 100 days of nonstop code challenge. I am committed to writing, pushing, and contributing code to either my (GitHub profile)[https://github.com/charlesgreen/] or to another open source project where my GitHub account is still able to link to my work.
+Today starts my 100 days of nonstop code challenge. I am committed to writing, pushing, and contributing code to either my [GitHub profile](https://github.com/charlesgreen/) or to another open source project where my GitHub account is still able to link to my work.
 
 For me this is the first experience of it's kind and I am very much looking forward to it. It will give me a chance to really dig in deep with Ruby and Rails development. A chance to brush off a few skills and really dig deep into the finer things like creating gems, engines, and API's.
 
