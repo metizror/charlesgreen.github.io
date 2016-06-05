@@ -1,6 +1,6 @@
 ---
 layout: post-sidebar
-date: 2016-06-06
+date: 2016-06-05
 title: 'A Bit of Running Fun'
 description: 'Saitama International Marathon 2016 - A bit of running fun.'
 categories: growth
