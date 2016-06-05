@@ -9,9 +9,9 @@ author_url: /author/charles
 author_avatar: charles
 show_avatar: true
 read_time: 3
-feature_image: feature-plantpot
+feature_image: feature-tokyomarathon
 show_related_posts: true
-square_related: recommend-plantpot
+square_related: recommend-tokyomarathon
 ---
 
 
