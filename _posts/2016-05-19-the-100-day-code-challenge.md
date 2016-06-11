@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2016-05-19
 title: '100 Day Code Challenge'
 description: 'My 100 day code challenge, posting code to GitHub ever day for 100 days.'
-categories: devops
+categories: DevOps
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles

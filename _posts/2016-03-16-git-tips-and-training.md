@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2016-03-16
 title: "Git Tips and Training"
 description: "Git Tips and Training"
-categories: devops
+categories: DevOps
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles
