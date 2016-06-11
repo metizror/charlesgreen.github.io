@@ -21,9 +21,13 @@ There's a 4 speaker line up with one still to be announced. Yours truly, will be
 Looks to be a great evening. They have the beer, you just need to bring the questions and fill the room.
 
 • Daiki Ogura (Adgorithmics, LLC) - Amamori, a Flux implementation
+
 • Ron Korving (Wizcorp) - Getting the most out of Open Source
+
 • Charles Green - 3 Proven Tips to Looking Awesome & Not Get Fired with Automated JavaScript Testing
+
 • T.B.A
+
 
 There are a still a few seats still open. [Get them while you can.](http://www.meetup.com/tokyojs/events/231504609/)
 
