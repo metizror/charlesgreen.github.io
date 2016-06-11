@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-06-10
-title: 'TokyoJS Revival!
+title: 'TokyoJS Revival'
 description: 'TokyoJS Revival!'
 categories: Devops
 author_name: Charles Green
