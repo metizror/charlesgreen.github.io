@@ -15,9 +15,9 @@ square_related: recommend-tokyomarathon
 ---
 
 
-I just signed up for a 2nd marathon! Call me a bit crazy or perhaps I'm just a glutton for punishment but when a few friends asked me to run yet another marathon this year I jumped at the chance. It wasn't until a bit later that I realized the [Toyama Marathon](http://www.toyamamarathon.com/) was 12 days before the [Saitama International Marathon](http://saitama-international-marathon.jp/). Needless to say this will be fun or at least unforgettable.  
+I just signed up for a 2nd marathon! Call me a bit crazy or perhaps I'm just a glutton for punishment but when a few friends asked me to run yet another marathon this year I jumped at the chance. It wasn't until a bit later that I realized the [Toyama Marathon](http://www.toyamamarathon.com/) was 12 days before the [Saitama International Marathon](http://saitama-international-marathon.jp/). Needless to say, this will be fun or at least unforgettable.  
 
-As of today, I hvae 139 days (4 Months, 17 days) to prepare for not one but two marathons. Up next, is the [Toyama Marathon](http://www.toyamamarathon.com/).  
+As of today, I have 139 days (4 Months, 17 days) to prepare for not one but two marathons. Up next, is the [Toyama Marathon](http://www.toyamamarathon.com/).  
 
 Now the game is really on!  
 
