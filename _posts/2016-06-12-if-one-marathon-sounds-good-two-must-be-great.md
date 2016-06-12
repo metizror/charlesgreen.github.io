@@ -1,6 +1,6 @@
 ---
 layout: post-sidebar
-date: 2016-06-05
+date: 2016-06-12
 title: 'A Bit of Extra Running Fun'
 description: 'Toyama & Saitama Marathon 2016 - A Bit of Extra Running Fun.'
 categories: growth
