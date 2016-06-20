@@ -22,6 +22,6 @@ As of today, I have 139 days (4 Months, 17 days) to prepare for not one but two 
 Now the game is really on!  
 
 UPDATE:
-On [RunKeeper.com]? (http://runkeeper.com/user/charlesgreen) If so, feel free to add me. Perhaps we can go on a run together if you're in Tokyo.
+On [RunKeeper.com](http://runkeeper.com/user/charlesgreen)? If so, feel free to add me. Perhaps we can go on a run together if you're in Tokyo.
 
 Have questions or comments? Contact me on Twitter [@charles_green](https://twitter.com/charles_green)
