@@ -18,7 +18,7 @@ square_related: recommend-tokyomarathon
 Wanted to give a quick training update. With all new things, the first and most difficult challenge can be found in changing one's habits and behaviors. At least for me, this is always the case.   
 
 **Mental Shift**  
-My goal is to get fit and to develop an overall healthy lifestyle. For some this might be an exciting goal but personally, it doesn't sound quite sexy enough for me. As such I needed to spice it up a bit and make it larger than life and a lot more exciting. Completing not just one but rather two full marathons within the next 5 months does it for me.
+My goal is to get fit and to develop an overall healthy lifestyle. For some this might be an exciting goal but personally, it doesn't sound quite sexy enough. As such I needed to spice it up a bit and make it larger than life and a lot more exciting. Completing not just one but rather two full marathons within the next 5 months does it for me.
 
 **Getting it Done**  
 Now comes the "getting it done" part. When I ran my first marathon back in 2010 I discovered a wonderful and foolproof trick. I simply told everyone I knew that I was going to do it. And with friends like mine, it would have been much more painful to not prepare and finish the race than to just do the work. They sure are a great group of guys and gals.
