@@ -25,13 +25,15 @@ Along with learning more about physical training and diet, I'm learning more abo
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/16169520/activity-summary/466fe07ddb7b0e1843700f67f3ecceee223a2595'></iframe>
 
-
+<br/>
+<br/>
 
 I've also started tracking my eating and overall diet with [MyFitnessPal](http://www.myfitnesspal.com). It's an exceptional application with a huge database of barcodes and product information which makes it extremely fast and easy to track macronutrients in addition to calories. Living in Japan I've found this the only app that has done a very good job including both western as well as Japanese food in a single place.  
 
 <a href="http://www.myfitnesspal.com/weight-loss-ticker"><img border="0" src="http://www.myfitnesspal.com/ticker/show/7146/4946/71464946.png" /></a>
 
-
+<br/>
+<br/>
 
 Thanks everyone for your help and I look forward to continuing my training along with you. I'm down to 84 days and counting. I'll keep you posted on my progress.
 
