@@ -22,16 +22,25 @@ As briefly discussed in my last update, the biggest change has actually been men
 
 Along with learning more about physical training and diet, I'm learning more about tools and gadgets that make the fun analytics side of training easier and a bit more fun. For example, when I first started running I was using [RunKeeper](http://www.RunKeeper.com) which worked very well. It's a good app with nice training programs but after expanding my training from only marathons to triathlons (swim, bike, run) it left me wanting so I moved to [Strava](http://wwww.strava.com) and I'm now tracking swimming and I'll soon add cycling.
 
+Strava like RunKeeper also offers marathon training plans as part of their premium account. From August 8th, I will be following a 12 week McMillan Running plan. The first week looks as follows with a total goal of approximately 40km to 60km total mileage each week.
+
+- Rest x 3 days
+- Easy Run (7~10km, 40~60 minutes) x 2 days
+- Fartlek Run (9~12km, 50~70 minutes) x 1 day
+- Long Run (20~27km, 90~120 minutes) x 1 day
+
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/16169520/activity-summary/466fe07ddb7b0e1843700f67f3ecceee223a2595'></iframe>
 
 <br/>
+
 
 I've also started tracking my eating and overall diet with [MyFitnessPal](http://www.myfitnesspal.com). It's an exceptional application with a huge database of barcodes and product information which makes it extremely fast and easy to track macronutrients in addition to calories. Living in Japan I've found this the only app that has done a very good job including both western as well as Japanese food in a single place.  
 
 <a href="http://www.myfitnesspal.com/weight-loss-ticker"><img border="0" src="http://www.myfitnesspal.com/ticker/show/7146/4946/71464946.png" /></a>
 
 <br/>
+
 
 Thanks everyone for your help and I look forward to continuing my training along with you. I'm down to 84 days and counting. I'll keep you posted on my progress.
 
