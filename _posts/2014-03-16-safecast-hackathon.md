@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2014-03-16
 title: 'Global “Hack for Safecast” Hackathon'
 description: 'Hacking for a good cause'
-categories: Devops volunteer
+categories: devops volunteer
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles
