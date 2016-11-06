@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2016-06-05
 title: 'A Bit of Running Fun'
 description: 'Saitama International Marathon 2016 - A bit of running fun.'
-categories: growth
+categories: health
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles

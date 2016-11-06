@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2016-06-12
 title: 'A Bit of Extra Running Fun'
 description: 'Toyama & Saitama Marathon 2016 - A Bit of Extra Running Fun.'
-categories: growth
+categories: health
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles

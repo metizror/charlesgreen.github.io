@@ -3,7 +3,7 @@ layout: post
 date: 2014-09-15
 title: 'Show Me The Docs'
 description: 'Show Me The Docs'
-categories: mindset
+categories: devops
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles

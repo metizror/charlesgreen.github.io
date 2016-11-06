@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2013-11-05
 title: 'My Mission'
 description: 'My Mission Statement'
-categories: mindset business blog
+categories: business
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles

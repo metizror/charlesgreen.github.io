@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2014-08-01
 title: 'Chasing Dreams, Refocusing, and Pushing Forward'
 description: 'Life is all about chasing your dream and enjoying the journey.'
-categories: mindset blog
+categories: mindset
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles

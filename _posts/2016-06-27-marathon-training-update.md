@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2016-06-27
 title: 'Marathon Training Update'
 description: 'Toyama & Saitama Marathon 2016 - Training Update'
-categories: growth
+categories: health
 author_name: Charles Green
 author_url: /author/charles
 author_avatar: charles

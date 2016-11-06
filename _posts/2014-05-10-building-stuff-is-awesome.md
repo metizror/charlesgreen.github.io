@@ -3,7 +3,7 @@ layout: post
 date: 2014-05-10
 title: 'Building Stuff Is Awesome'
 description: 'Building Stuff Is Awesome'
-categories: mindset
+categories: devops
 author_name: Charles Green
 author_url : /author/charles
 author_avatar: charles

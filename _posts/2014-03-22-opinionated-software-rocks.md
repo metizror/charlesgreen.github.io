@@ -3,7 +3,7 @@ layout: post-sidebar
 date: 2014-03-22
 title: 'Opinionated Software Rocks'
 description: "I'll Take Opinionated Software Everyday of the Week"
-categories: mindset
+categories: devops
 author_name : Charles Green
 author_url : /author/charles
 author_avatar: charles
