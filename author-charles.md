@@ -2,7 +2,7 @@
 layout: author
 title: Author
 permalink: author/charles/
-feature_image: feature-sea
+feature_image: feature-laptop
 author_avatar: charles
 author_name: Charles Green
 title: Charles Green
