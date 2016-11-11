@@ -42,7 +42,7 @@ I completed the first 20km in 3:10 however my pace got away from me during the s
 To make things more interesting over the coming months the cut off times for races is getting much shorter. With 7 hours the Toyama Marathon was a good starting point. Up next in Saitama, with a 6 hour limit, it will be much more difficult but nowhere near as challenging as the 5 hour limited in Nagano. Regardless, it should be good times pushing myself in speed as well as distance over the coming months.
 
 
-### Planned Improvements - Saitama Marathon Preparation
+## Planned Improvements - Saitama Marathon Preparation
 
 With little or rather no time to train between events I'm looking to try and cut 38 minutes off my time through the use of tech and strategy. With a new [Garmin Forerunner® HR](https://buy.garmin.com/en-US/US/into-sports/running/forerunner-230/prod523893.html) I should be able to track my pace from start to finish. That combined with following something akin to the walk-run method, alternating between higher intensity and a slower recovery pace, I believe I still have a shot in finishing before the 6 hour cut off time.
 
