@@ -32,6 +32,7 @@ While there I was able to see Toyama Castle and museum, the observatory in the c
 
 For any first time marathoners or for anyone looking for a wonderful and well executed event and a generous 7 hour cut off time then Toyama should be on your short list. This year's race had 13,000+ runners and what seemed like just as many volunteers. Not to mention far more spectators than I ever expected. It was like everyone took the day off and came out to to join us. It was great and I look forward to running it again next year.
 
+![Toyama Marathon 2016](/img/2016-10-31-toyama-marathon.png)
 
 ## Race results
 
