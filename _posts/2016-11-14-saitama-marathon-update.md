@@ -77,7 +77,7 @@ Next up is the Nagano Marathon at 5 hours. I now have no choice but to shed 20-3
 
 ## Spartan Race (obstacle course)
 
-I'm also looking at completing in a [Spartan Race](https://www.spartan.com/). Back in 2012 I took part in [Men's Health Urbanathlon](http://www.menshealthurbanathlon.com/) in NYC and while it looks much more like the Spartan race now then it did before it was nonetheless a great time (well minus Hurricane Sandy hitting NYC that evening). Anyhow, I'm still lining up the details it's my full intention to take part in my first Spartan Race in the US this Spring.
+I'm also looking at completing in a [Spartan Race](https://www.spartan.com/) in early 2017. Back in 2012 I took part in [Men's Health Urbanathlon](http://www.menshealthurbanathlon.com/) in NYC and while it looks much more like the Spartan race now then it did before it was nonetheless a great time (well minus Hurricane Sandy hitting NYC that evening). Anyhow, I'm still lining up the details it's my full intention to take part in my first Spartan Race in the US this Spring.
 
 
 
