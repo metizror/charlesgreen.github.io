@@ -21,18 +21,18 @@ In this post I will touch on the day trip to Saitama, a couple lessons learned a
 
 ## Destination Saitama
 
-Sitting about 1 hour straight north of Meguro, Saitama is a bit of hike but definitely doable for a day trip. For the most part, it looks like downtown Tokyo with 30 story buildings and a large stadium. The city itself is very accessible with lots of layers. If you're going there with people it's advisable to pick a meeting spot in case you get separated as doing so over text or phone afterwards can be difficult as it's a very large place.
+Sitting about 1 hour straight north of Meguro, Saitama is a bit of hike but definitely doable for a day trip. For the most part, it looks like downtown Tokyo with 30 story buildings and a large stadium. The city itself is very accessible with lots of layers. If you're going there with others then it's highly advisable to pick a meeting spot in case you or someone gets separated. Trying to meet up via phone or text afterwards can be difficult.
 
 
 ## Saitama Marathon
 
-With a lot of small peaks and valleys, the course is far from boring but it does double back over itself so it's kind of like running the same route twice. There was also a good number of spectators and volunteers. Many thanks to everyone who helped make the day possible.
+With a lot of small peaks and valleys, the course is far from boring but it does double back over itself so it's kind of like running the same route twice. There were a good number of spectators and volunteers that came out to support us. I definitely do want to say thanks to everyone who helped make the day possible.
 
-While the experience was mostly positive there were a few disappointments.  Perhaps this is a carry over from the wonderful  experience in Toyama but I was surprised by all the queuing, lack of facilities and most of all lack of food and water along the course.  
+While the experience was mostly positive there were a few disappointments.  Perhaps this is a carry over from the wonderful  experience in Toyama but I was surprised by all the queuing, the lack of restrooms, and most of all lack of food and water along the course.
 
-There were multiple times when I would get to a water station and find that they were completely out of supplies or worse yet to get to where a water station was and find it completely closed.  If it were free I could understand there being a limited supply however at JPY 10,000 (approx. US$100) to take part in the race there is simply no acceptable excuse.
+There were multiple times when I would get to a water station and find that it was either completely out of water and food or worse yet completely closed.  If it were free event I could understand there being limited supplies but at JPY 10,000 (approx. US$100) there's simply to acceptable excuse for multiple stations to be out of water or to be closed before the race is over.
 
-Perhaps I should chalk this up to inexperience as it is only the 2nd Saitama Marathon but either way I will most likely skip it next year.
+Perhaps I should chalk this up to inexperience is this is only the 2nd Saitama Marathon but either way I will most likely skip it next year in favor for Toyama and other events.
 
 
 ![Saitama International Marathon 2016](/img/2016-11-14-saitama-marathon.jpg)
@@ -40,16 +40,16 @@ Perhaps I should chalk this up to inexperience as it is only the 2nd Saitama Mar
 
 ## Race Results
 
-Overall I was only able to complete 21.2km of the 42.192km (26.2 miles) race before missing the cutoff time needed to clear the 6th time gate (discussed more in lessons learned). And while it was a disappointment not to be able to continue running and finish the race I was very happy to have pushed hard and cut 29 minutes off my 20km time to establish a new personal best.
+Overall I was only able to complete 21.2km of the 42.192km (~13 of 26.2 miles) race before missing the cutoff time needed to clear the 6th gate (discussed more in lessons learned). And while it was a disappointment not to finish the race I was very happy to have pushed hard and cut 29 minutes off my 20km time for a new personal best.
 
 Race Stats:  
-- Time: 2:54
-- Average Pace: 8:12/km
+  *  Time: 2:54  
+  *  Average Pace: 8:12/km  
 
 Personal Bests:  
-- 10km 1:15:43  
-- 15km 1:56:56  
-- 20km 2:41:21  
+  *  10km 1:15:43  
+  *  15km 1:56:56  
+  *  20km 2:41:21  
 
 
 ## Lessons Learned
@@ -72,7 +72,13 @@ It is definitely a must have for anyone running a long race. I can thank the pac
 
 Over the last couple of races, my times have needed to increase drastically in order to finish on time. Starting at 7 hours Toyama was generous and I could focus on simply finishing the race. Then came Saitama at 6 hours. Still almost doable but definitely difficult at my current health and weight.
 
-Next up is the Nagano Marathon at 5 hours. I now have no choice but to shed 20-30kg work on both my endurance as well as speed drills. To help with this I'm looking at [McMillan Running](https://www.mcmillanrunning.com/) for either a custom training plan or monthly online coaching as this race will be my first real test and I want to give it my all.
+Next up is the Nagano Marathon at 5 hours. I now have no choice but to shed 20-30kg and work hard on endurance and speed  drills. To help with this I'm looking at [McMillan Running](https://www.mcmillanrunning.com/) for either a custom training plan or monthly online coaching as this race will be my first real test and I want to give it my all.
+
+
+## Spartan Race (obstacle course)
+
+I'm also looking at completing in a [Spartan Race](https://www.spartan.com/). Back in 2012 I took part in [Men's Health Urbanathlon](http://www.menshealthurbanathlon.com/) in NYC and while it looks much more like the Spartan race now then it did before it was nonetheless a great time (well minus Hurricane Sandy hitting NYC that evening). Anyhow, I'm still lining up the details it's my full intention to take part in my first Spartan Race in the US this Spring.
+
 
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/16169520/activity-summary/466fe07ddb7b0e1843700f67f3ecceee223a2595'></iframe>
