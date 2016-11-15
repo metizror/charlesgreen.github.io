@@ -26,9 +26,9 @@ For me, it comes down to 3 specific drivers. First, a marathon is big and challe
 
 Next, it has a fixed deadline that you can't cram for. It isn't like spelling test where you can cram the night before or a term paper that you can push through by pulling an all-nighter. You simply need to put in the time and effort to make progress.
 
-For me these deadlines are very real. I decide up front that I am going to run regardless of my training. This means that if I train well the race will be good fun but if I don't it's going to be pain and misery. Chasing and getting the carrot is great motivation but it works much better when it's also combined with avoiding the proverbial stick.
+For me, these deadlines are very real. I decide up front that I am going to run regardless of my training. This means that if I train well the race will be good fun but if I don't it's going to be pain and misery. Chasing and getting the carrot is great motivation but it works much better when it's also combined with avoiding the proverbial stick.
 
-Last but not least and very generally speaking running marathons is sort of like a litmus test. It helps me to better understand the types of people I'm engaging with and what their values are. It also lets me quickly understand their overall confidence, support, and drive levels.
+Last but not least and very generally speaking running marathons is sort of like a litmus test. It helps me to better understand the types of people I'm engaging with and what their values are. As the saying goes we are the sum of the 5 people you spend the most time with and as such, I want to ensure that I'm making the right decisions and selecting people with the traits that I want to nurture in myself.
 
 If you run marathons, why do you do it? If not, why not?
 
