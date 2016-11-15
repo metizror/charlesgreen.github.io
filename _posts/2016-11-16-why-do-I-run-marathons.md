@@ -14,7 +14,7 @@ show_related_posts: true
 square_related: recommend-tokyomarathon
 ---
 
-I got a great question and thought it was worth sharing. I'd also like to hear your answers.
+I got a great question and thought it was worth sharing. I'd also like to hear your thoughts.
 
 ## Why Do I Run Marathons?
 
