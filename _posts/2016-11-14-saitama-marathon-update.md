@@ -43,13 +43,13 @@ Perhaps I should chalk this up to inexperience is this is only the 2nd Saitama M
 Overall I was only able to complete 21.2km of the 42.192km (~13 of 26.2 miles) race before missing the cutoff time needed to clear the 6th gate (discussed more in lessons learned). And while it was a disappointment not to finish the race I was very happy to have pushed hard and cut 29 minutes off my 20km time for a new personal best.
 
 Race Stats:  
-  *  Time: 2:54  
-  *  Average Pace: 8:12/km  
+*  Time: 2:54  
+*  Average Pace: 8:12/km  
 
 Personal Bests:  
-  *  10km 1:15:43  
-  *  15km 1:56:56  
-  *  20km 2:41:21  
+*  10km 1:15:43  
+*  15km 1:56:56  
+*  20km 2:41:21  
 
 
 ## Lessons Learned
