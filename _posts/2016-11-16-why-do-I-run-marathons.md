@@ -20,7 +20,7 @@ I got a great question and thought it was worth sharing. I'd also like to hear y
 
 Recently a colleague asked me why I started running marathons instead of starting small and working my way up to the big leagues as I'm frankly still out of shape and need to drop a good 20kg.
 
-While this wasn't the first time I've thought about the question it was the first time I've been asked. This lead me to think that others might have wondered the same thing.
+While this wasn't the first time I've thought about the question it was the first time I've been asked. This then lead me to think that others might have wondered the same thing.
 
 For me, it comes down to 3 specific drivers. First, a marathon is big and challenging enough to get me excited and compel me to try. If the goal were smaller I simply would not try as hard.
 
