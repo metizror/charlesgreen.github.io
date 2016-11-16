@@ -14,10 +14,6 @@ show_related_posts: true
 square_related: recommend-tokyomarathon
 ---
 
-I got a great question and thought it was worth sharing. I'd also like to hear your thoughts.
-
-## Why Do I Run Marathons?
-
 Recently a colleague asked me why I started running marathons instead of starting small and working my way up to the big leagues as I'm frankly still out of shape and need to drop a good 20kg.
 
 While this wasn't the first time I've thought about the question it was the first time I've been asked. This then lead me to think that others might have wondered the same thing.
